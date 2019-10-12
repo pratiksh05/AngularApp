@@ -1,0 +1,9 @@
+[
+    {"id":1, "companyname":"Tata Consultancy","employeenumber":3, "vendername":1},
+    {"id":1, "companyname":"Wipro","employeenumber":30, "vendername":4},
+    {"id":1, "companyname":"Cognizant","employeenumber":300, "vendername":5},
+    {"id":1, "companyname":"Infosys","employeenumber":0, "vendername":4},
+    {"id":1, "companyname":"Birlasoft","employeenumber":330, "vendername":16},
+    {"id":1, "companyname":"Cotiviti","employeenumber":11, "vendername":23},
+    {"id":1, "companyname":"Aviso","employeenumber":101, "vendername":0}
+]
